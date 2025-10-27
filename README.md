@@ -1,5 +1,4 @@
-# Script-Analyzer-Tool
-A Python tool for analyzing PowerShell (.ps1) and Python (.py) scripts. It identifies functionality, flags suspicious behaviors (like file deletion or network calls), assesses risk (Low/Medium/High), and generates detailed reports for technical and non-technical users.
+
 # Script Analyzer Tool
 
 A Python-based tool designed to analyze both PowerShell (.ps1) and Python (.py) scripts. It provides detailed reports on script functionality, potential risks, and generates summaries for both technical and non-technical users.
